@@ -1,0 +1,291 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:394px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u0 {
+  position:absolute;
+  left:149px;
+  top:190px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u2 {
+  position:absolute;
+  left:149px;
+  top:247px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u4 {
+  position:absolute;
+  left:149px;
+  top:247px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u6 {
+  position:absolute;
+  left:149px;
+  top:304px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u8 {
+  position:absolute;
+  left:149px;
+  top:304px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u10 {
+  position:absolute;
+  left:149px;
+  top:362px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u12 {
+  position:absolute;
+  left:149px;
+  top:362px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u13 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u14 {
+  position:absolute;
+  left:149px;
+  top:419px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u15 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u16 {
+  position:absolute;
+  left:149px;
+  top:419px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u18 {
+  position:absolute;
+  left:149px;
+  top:475px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u19 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:58px;
+}
+#u20 {
+  position:absolute;
+  left:149px;
+  top:475px;
+  width:245px;
+  height:57px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u21 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:241px;
+  word-wrap:break-word;
+}

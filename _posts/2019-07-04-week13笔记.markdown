@@ -1,6 +1,6 @@
 ---
-layout: article
-title:  "week13笔记"
+layout: post
+title:  "笔记"
 date:   2019-07-04 21:14:24 +0800
 categories: posts infovis infovisnotes
 image:

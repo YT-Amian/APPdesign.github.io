@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  "关于使用GitHub desktop的心得"
 date:   2019-07-04 22:07:50 +0800
 categories: posts rwd

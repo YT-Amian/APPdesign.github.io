@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "网页的logo更改"
 date:   2019-07-04 23:45:15 +0800
 categories: 

@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll搭建个人博客(二)
 date: 2019-07-04
-tags: 博客   
+tags: 平面设计 
 ---
  
 文章内容含以下几点：

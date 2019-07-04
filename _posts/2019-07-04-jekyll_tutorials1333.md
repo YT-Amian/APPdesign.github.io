@@ -1,7 +1,11 @@
 ---
-layout: article
-title:  "关于markdown如何添加图片"
+layout: post
+title: markdown添加图片的方法
+date: 2019-07-04
+tags: 网站设计   
 ---
+
+
 markdown添加图片的方法 & 分享软件·有道云笔记
 ## markdown添加图片的方法
 
